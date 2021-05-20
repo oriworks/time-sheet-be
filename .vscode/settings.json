@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:time-sheet-backend}/database/database.sqlite",
+            "name": "TimeSheet"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
